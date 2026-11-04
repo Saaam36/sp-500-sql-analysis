@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+sp500.duckdb
+data/all_stocks_5yr.csv
